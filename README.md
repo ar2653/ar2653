@@ -1,7 +1,6 @@
 ### Hi there, I'm Ankush 👋
 
-<figure><embed src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/0c0534e7-19b1-45f7-9692-24c0f58f2f9e.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/6a9e6a5d-c35b-4e27-be2f-e85afffb1ded.png" /></a>
 ## I'm a Developer.
 
 - I am currently working with Vue JS <img width="12px" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png">
