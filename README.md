@@ -28,8 +28,11 @@ _Fall '23_
 - Recognized for our innovative full-stack application utilizing Vue.js, Vite, a WebGL-based library (three.js), Node.js, Express.js, MongoDB, and Google Cloud.
 - Received $1,000 for our innovative solution, providing space travel across the Solar System.
 - Recognized for Best use of Google Cloud with the Google Cloud Backpack award, highlighting both technical excellence and teamwork.
+
 <br />
+
 ---
+
 Let's connect and build something amazing! 🚀
 
 Reach me @ 📧 [ar2653@njit.edu](mailto:ar2653@njit.edu) / <a href="https://www.linkedin.com/in/ankush-ranapure/">Linkedin</a> 🌐
