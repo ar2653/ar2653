@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Ankush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankushpersonal&show_icons=true&hide=stars&count_private=true" />
+<img align="left" alt="Ankush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ar2653&show_icons=true&hide=stars&count_private=true" />
 
  
 
