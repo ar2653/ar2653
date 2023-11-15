@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankush 👋
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/0c0534e7-19b1-45f7-9692-24c0f58f2f9e.svg"></embed></figure>
 
 ## I'm a Developer.
 
