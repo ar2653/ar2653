@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ankush Ranapure!
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/6a9e6a5d-c35b-4e27-be2f-e85afffb1ded.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/fc85e475-a688-4afb-addc-0fc1a05fd30f.png" /></a>
 
 ### About Me
 
