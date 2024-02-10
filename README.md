@@ -48,29 +48,39 @@ I'm passionate about crafting elegant solutions to complex problems. Here's a bi
 
 ### Side Projects
 
-- **Chatbot to Talk to Me**
-  - Developed using React JS, Web Sockets, Node JS, Express JS, MongoDB.
+**Chatbot to Talk to Me**
+- Built with: React JS, Web Sockets, Node JS, Express JS, MongoDB.
 
-- **Fastfood Restaurant Backend**
-  - Utilized JWT, MySQL, Express JS, Node JS, Docker; deployed to Docker Hub.
+**Fastfood Restaurant Backend**
+- Technologies: JWT, MySQL, Express JS, Node JS, Docker.
+- Deployment: Docker Hub.
 
-- **Portfolio**
-  - Built with React and Next JS.
+**Portfolio**
+- Tech Stack: React, Next JS.
 
-- **Digital Health**
-  - Academic project utilizing React, Ant Design; deployed to Netlify.
+**Digital Health**
+- Academic Project.
+- Tools: React, Ant Design.
+- Deployment: Netlify.
 
-- **Woodys Automotive**
-  - Academic project developed using Angular.
+**Woodys Automotive**
+- Academic Project.
+- Framework: Angular.
 
-- **Make My Space Trip Backend**
-  - Project created during "Girl Hacks 23" using Node JS, Express JS, Mongo DB Cloud; deployed to Google Cloud.
+**Make My Space Trip Backend**
+- Developed for "Girl Hacks 23".
+- Stack: Node JS, Express JS, Mongo DB Cloud.
+- Deployment: Google Cloud.
 
-- **Make My Space Trip Frontend**
-  - Project created during "Girl Hacks 23" using Vue JS, Vite, WebGL; deployed to GitHub pages.
+**Make My Space Trip Frontend**
+- Project for "Girl Hacks 23".
+- Tools: Vue JS, Vite, WebGL.
+- Deployment: GitHub Pages.
 
-- **Wave Dynamics Wave Simulation Backend**
-  - Developed during Hack NJIT 23 using Node, Express, Google SQL Database, Meteomatics API; deployed on Google Cloud Platform.
+**Wave Dynamics Wave Simulation Backend**
+- Created during Hack NJIT 23.
+- Stack: Node, Express, Google SQL Database, Meteomatics API.
+- Deployment: Google Cloud Platform.
 
 
 ## 🏆 Honors & Awards
