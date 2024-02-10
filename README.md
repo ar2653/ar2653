@@ -101,4 +101,5 @@ Let's connect and build something amazing! 🚀
 
 Reach me @ 📧 [ar2653@njit.edu](mailto:ar2653@njit.edu) / <a href="https://www.linkedin.com/in/ankush-ranapure/">Linkedin</a> 🌐
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/678c24f1-ef7c-412e-a6ac-b188abb9d286.png" /></a>
+<img src="https://wakatime.com/share/@018bd19c-00c4-4d57-a803-3ebb0d6a8432/82d0a9d9-e6bd-4f35-8025-07c618598a1a.svg" alt="Wakatime Stats" width="500">
+
